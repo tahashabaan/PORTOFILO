@@ -1,25 +1,46 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { BrowserRouter as Router, Routes, Route } 
+from 'react-router-dom'
+import Header from './component/Header/Header';
+import Home from './component/Home/Home';
+import About from './component/About/About';
+import Works from './component/Works/Works'
+import Concat from './component/Concat/Concat';
+import Error from './component/Error/Error';
+import Skills from './component/Skills/Skills';
+import Footer from './component/footer/footer'
+// import Testmionals from './components/Testmionals/Testmionals';
+// import classes from './App.module.css'
 
-function App() {
+
+const App = () => {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Router>
+      <Header/>
+
+      <Routes>
+        <Route path='/PORTOFILO' element={
+         <>
+          <Home/>
+          <About/>
+          <Skills/>
+          <Works/>
+          <Concat/>
+          <Footer/>
+          </>
+        }/>
+        
+    <Route path='/about'   element={ <About/>}/>
+    <Route path='/skills'  element={<Skills/>}/>
+    <Route path='/works'   element={<Works/>}/>
+    <Route path='/concat' element={<Concat/>}/>
+    <Route path='/footer' element={<Footer/>}/>
+    <Route path='/*'  element={<Error/>}/> 
+      
+     </Routes>
+    </Router>
+  )
 }
 
 export default App;
