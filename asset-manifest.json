@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/PORTOFILO/static/css/main.c06674e0.css",
-    "main.js": "/PORTOFILO/static/js/main.32e9239d.js",
+    "main.css": "/PORTOFILO/static/css/main.cf9082f6.css",
+    "main.js": "/PORTOFILO/static/js/main.86f83e71.js",
+    "static/media/taha.jpeg": "/PORTOFILO/static/media/taha.7bfe11af98c565d8b5ef.jpeg",
+    "static/media/movie_app.jpg": "/PORTOFILO/static/media/movie_app.8027cb9433845c1f1a8d.jpg",
+    "static/media/ecommerce.jpg": "/PORTOFILO/static/media/ecommerce.dcac8f49f8e15f0384fe.jpg",
+    "static/media/food_order.jpg": "/PORTOFILO/static/media/food_order.75719ab88995ba5a3ea6.jpg",
+    "static/media/shoping_cart.jpg": "/PORTOFILO/static/media/shoping_cart.3cb87c179d23badea754.jpg",
+    "static/media/form_empoly.jpg": "/PORTOFILO/static/media/form_empoly.a7307882bc6d35e3bbfd.jpg",
+    "static/media/cruds.jpg": "/PORTOFILO/static/media/cruds.70b11f6908714275006c.jpg",
+    "static/media/Taha_Shabaan_Resume.pdf": "/PORTOFILO/static/media/Taha_Shabaan_Resume.78cefba83edfcd6d2f7e.pdf",
     "index.html": "/PORTOFILO/index.html",
-    "main.c06674e0.css.map": "/PORTOFILO/static/css/main.c06674e0.css.map",
-    "main.32e9239d.js.map": "/PORTOFILO/static/js/main.32e9239d.js.map"
+    "main.cf9082f6.css.map": "/PORTOFILO/static/css/main.cf9082f6.css.map",
+    "main.86f83e71.js.map": "/PORTOFILO/static/js/main.86f83e71.js.map"
   },
   "entrypoints": [
-    "static/css/main.c06674e0.css",
-    "static/js/main.32e9239d.js"
+    "static/css/main.cf9082f6.css",
+    "static/js/main.86f83e71.js"
   ]
 }
