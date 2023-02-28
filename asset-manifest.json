@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PORTOFILO/static/css/main.605ed982.css",
-    "main.js": "/PORTOFILO/static/js/main.7cb311ee.js",
+    "main.css": "/PORTOFILO/static/css/main.01de32ab.css",
+    "main.js": "/PORTOFILO/static/js/main.018f852b.js",
     "static/media/taha.jpeg": "/PORTOFILO/static/media/taha.7bfe11af98c565d8b5ef.jpeg",
     "static/media/movie_app.jpg": "/PORTOFILO/static/media/movie_app.8027cb9433845c1f1a8d.jpg",
     "static/media/omniFood.jpg": "/PORTOFILO/static/media/omniFood.33cd27e001b93b58bfa6.jpg",
@@ -15,11 +15,11 @@
     "static/media/Taha_Shabaan_Resume.pdf": "/PORTOFILO/static/media/Taha_Shabaan_Resume.78cefba83edfcd6d2f7e.pdf",
     "static/media/monesKill.jpg": "/PORTOFILO/static/media/monesKill.9e11452179a505172ec3.jpg",
     "index.html": "/PORTOFILO/index.html",
-    "main.605ed982.css.map": "/PORTOFILO/static/css/main.605ed982.css.map",
-    "main.7cb311ee.js.map": "/PORTOFILO/static/js/main.7cb311ee.js.map"
+    "main.01de32ab.css.map": "/PORTOFILO/static/css/main.01de32ab.css.map",
+    "main.018f852b.js.map": "/PORTOFILO/static/js/main.018f852b.js.map"
   },
   "entrypoints": [
-    "static/css/main.605ed982.css",
-    "static/js/main.7cb311ee.js"
+    "static/css/main.01de32ab.css",
+    "static/js/main.018f852b.js"
   ]
 }
